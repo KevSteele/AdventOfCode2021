@@ -1,0 +1,15 @@
+/Users/kevin.steele/Desktop/AdventOfCode/Day_2/bin/Debug/net5.0/Day_2.deps.json
+/Users/kevin.steele/Desktop/AdventOfCode/Day_2/bin/Debug/net5.0/Day_2.runtimeconfig.json
+/Users/kevin.steele/Desktop/AdventOfCode/Day_2/bin/Debug/net5.0/Day_2.runtimeconfig.dev.json
+/Users/kevin.steele/Desktop/AdventOfCode/Day_2/bin/Debug/net5.0/Day_2.dll
+/Users/kevin.steele/Desktop/AdventOfCode/Day_2/bin/Debug/net5.0/ref/Day_2.dll
+/Users/kevin.steele/Desktop/AdventOfCode/Day_2/bin/Debug/net5.0/Day_2.pdb
+/Users/kevin.steele/Desktop/AdventOfCode/Day_2/obj/Debug/net5.0/Day_2.csproj.AssemblyReference.cache
+/Users/kevin.steele/Desktop/AdventOfCode/Day_2/obj/Debug/net5.0/Day_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kevin.steele/Desktop/AdventOfCode/Day_2/obj/Debug/net5.0/Day_2.AssemblyInfoInputs.cache
+/Users/kevin.steele/Desktop/AdventOfCode/Day_2/obj/Debug/net5.0/Day_2.AssemblyInfo.cs
+/Users/kevin.steele/Desktop/AdventOfCode/Day_2/obj/Debug/net5.0/Day_2.csproj.CoreCompileInputs.cache
+/Users/kevin.steele/Desktop/AdventOfCode/Day_2/obj/Debug/net5.0/Day_2.dll
+/Users/kevin.steele/Desktop/AdventOfCode/Day_2/obj/Debug/net5.0/ref/Day_2.dll
+/Users/kevin.steele/Desktop/AdventOfCode/Day_2/obj/Debug/net5.0/Day_2.pdb
+/Users/kevin.steele/Desktop/AdventOfCode/Day_2/obj/Debug/net5.0/Day_2.genruntimeconfig.cache
